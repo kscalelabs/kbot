@@ -1,0 +1,8 @@
+[submodule "kos-kbot"]
+	path = kos-kbot
+	url = git@github.com:kscalelabs/kos-kbot.git
+	branch = master
+[submodule "ksim-kbot"]
+	path = ksim-kbot
+	url = git@github.com:kscalelabs/ksim-kbot.git
+	branch = master
