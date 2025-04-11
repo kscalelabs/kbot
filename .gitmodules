@@ -6,3 +6,6 @@
 	path = ksim-kbot
 	url = git@github.com:kscalelabs/ksim-kbot.git
 	branch = master
+[submodule "kbot-inference"]
+	path = kbot-inference
+	url = git@github.com:kscalelabs/kbot-inference.git
