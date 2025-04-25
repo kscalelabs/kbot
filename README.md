@@ -1,10 +1,10 @@
 <div align="center">
 <h1>K-Bot</h1>
-<p>K-Bot is an open-source humanoid robot from K-Scale Labs. It is our attempt to build a future where robots are owned by everyone. We welcome your feedback, issues and pull requests on <a href="https://github.com/kscalelabs">Github</a> or through our <a href="https://discord.gg/pVwubQT9Sg">Discord</a>.</p>
+<p>K-Bot is an open-source humanoid robot from K-Scale Labs. It is our attempt to build a future where robots are owned by everyone. We welcome your feedback, issues and pull requests on <a href="https://url.kscale.dev/github">Github</a> or through our <a href="https://url.kscale.dev/discord">Discord</a>.</p>
 <h3>
-  <a href="https://docs.kscale.dev/docs/getting-started">Docs</a> ·
-  <a href="https://discord.gg/pVwubQT9Sg">Community</a> ·
-  <a href="https://bounties.kscale.dev/">Bounties</a>
+  <a href="https://url.kscale.dev/docs">Docs</a> ·
+  <a href="https://url.kscale.dev/discord">Discord</a> ·
+  <a href="https://url.kscale.dev/bounties">Bounties</a>
 </h3>
 </div>
 
