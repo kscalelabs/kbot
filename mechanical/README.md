@@ -2,9 +2,7 @@
 
 ## CAD Model
 
-Onshape link
-
-TODO: @aaron
+See the CAD model for the robot [here](https://cad.onshape.com/documents/90b40c2121cf1461a5311bf0/w/c096d987991abf6335af57b6/e/1b575bb422268d4a5f73218a).
 
 ## Design Philosophy
 
