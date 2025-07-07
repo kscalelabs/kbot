@@ -1,10 +1,7 @@
 # Mechanical Design
 
-## CAD Model
-
-See the CAD model for the robot [here](https://cad.onshape.com/documents/90b40c2121cf1461a5311bf0/w/c096d987991abf6335af57b6/e/1b575bb422268d4a5f73218a).
-
-## Design Philosophy
+- See the CAD model for the robot [here](https://cad.onshape.com/documents/90b40c2121cf1461a5311bf0/w/c096d987991abf6335af57b6/e/1b575bb422268d4a5f73218a).
+- Watch a teardown of the K-Bot hardware [here](https://www.youtube.com/watch?v=qhZi9rtdEKg)
 
 The K-Bot is designed with the following principles in mind:
 
@@ -13,13 +10,3 @@ The K-Bot is designed with the following principles in mind:
 - _Easy to upgrade_: Humanoid robots are a fast-growing field, and it is painful to have to upgrade an entire robot every time new components come out. To that end, we made the K-Bot modular and upgradable:
   - The hands can be easily swapped, using a lens mount interface, and piggyback onto the same 48 volt power and CAN bus lines that the arm actuators use.
   - The head can also be easily swapped out - the robot is basically a single USB device
-
-TODO: @chris
-
-## Wire Routing
-
-TODO: @chris
-
-## Heat Management
-
-TODO: @aaron
