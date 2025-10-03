@@ -1,6 +1,6 @@
 # Mechanical Design
 
-- See the CAD model for the robot [here](https://cad.onshape.com/documents/90b40c2121cf1461a5311bf0/w/c096d987991abf6335af57b6/e/1b575bb422268d4a5f73218a).
+- See the CAD model for the robot [here](https://cad.onshape.com/publications/e15cf8edefacbba3009917c0/).
 - Watch a teardown of the K-Bot hardware [here](https://www.youtube.com/watch?v=qhZi9rtdEKg)
 
 The K-Bot is designed with the following principles in mind:
